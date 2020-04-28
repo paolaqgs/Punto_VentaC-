@@ -1,0 +1,77 @@
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojAssemblyReference.cache
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.cache
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Martin Espinoza\source\repos\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojAssemblyReference.cache
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.cache
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form2.resources
+E:\Descargas\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.CopyComplete
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\BouncyCastle.Crypto.dll
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Google.Protobuf.dll
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Renci.SshNet.dll
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Ubiety.Dns.Core.dll
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Google.Protobuf.xml
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.xml
+E:\Descargas\Punto_Venta\Punto_Venta\bin\Debug\Renci.SshNet.xml
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Google.Protobuf.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Renci.SshNet.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Google.Protobuf.xml
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.xml
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\Renci.SshNet.xml
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojAssemblyReference.cache
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form2.resources
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.cache
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.CopyComplete
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.Runtime.dll
+C:\Users\pao_q\OneDrive\Escritorio\Punto_Venta\Punto_Venta\bin\Debug\IKVM.Runtime.JNI.dll
